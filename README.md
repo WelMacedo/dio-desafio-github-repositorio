@@ -79,6 +79,6 @@ Despeje em um recipiente, adicione o xilitol, o cacau e mexa bem até dissolver 
 Acrescente os ovos, a farinha e misture até formar uma massa homogênea.
 Coloque o fermento e misture apenas para incorporar.
 Em uma forma com papel manteiga, despeje a massa, espalhe as gosta de chocolate por toda a superfície e leve ao forno preaquecido a 200 ºC por cerca de 15 minutos.
-Agora é só servir. Bom
-				bash: README.md: command not found
+Agora é só servir. 
 
+BOM APETITE
